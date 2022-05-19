@@ -1,4 +1,4 @@
-I've built and trained two CNNs from scratch using TF sequential for 10 epochs each and compared their prediction accuracies.
+Built and trained two CNNs from scratch using TF sequential for 10 epochs each and compared their prediction accuracies.
 
 Dataset: Fashion MNIST - https://github.com/zalandoresearch/fashion-mnist/tree/master/data/fashion
 
@@ -12,5 +12,3 @@ Dataset: Fashion MNIST - https://github.com/zalandoresearch/fashion-mnist/tree/m
 
 # **Model 2**:
 Same as Model 1, with batch normalization and droput layers added
-
-![alt text](image.png)
